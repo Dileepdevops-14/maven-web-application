@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>nexus</name>
+	      <name>Nexus</name>
 	      <url>http://18.116.162.44:8081/repository/Wallmart_Sna/</url>
 	    </snapshotRepository>
 	    
